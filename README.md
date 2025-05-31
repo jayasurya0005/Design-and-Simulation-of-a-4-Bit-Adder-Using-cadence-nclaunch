@@ -7,7 +7,7 @@ The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and ve
 
 ## Tools Required
 ### Cadence EDA Suite
-- **nclaunch** (for functional and timing simulation)
+- **nclaunch** (for functional and timing simulation) 
 
 ### Hardware Requirements
 - Minimum **4GB RAM** and a **multi-core processor**
